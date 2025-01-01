@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @OllyHof
 - 👀 I’m interested in Making games, Applications, and automating everything
-- 🌱 I’m currently learning Python
-- 📫 Reach me on discord OllyHof#9958 
+- ☕ I’m currently working on project Brewmate
+- 🏫 I’m currently studying mechatronics at Avans Hogeschool
+- 📫 Reach me on discord OllyHof
 
 <!---
 OllyHof/OllyHof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
