@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @OllyHof<br>👀 I’m interested in Making games, Applications, and automating everything<br>☕ I’m currently working on project Brewmate<br>🏫 I’m currently studying mechatronics at Avans Hogeschool<br>📫 Reach me on discord OllyHof
-
+👋 Hi, I’m @OllyHof<br>👀 I’m interested in Making games, Applications, and automating everything<br>☕ I’m currently working on project Brewmate<br>🏫 I’m currently studying mechatronics at Avans University of Aplied Sciences
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users//OllyHof) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/OHofman) 
